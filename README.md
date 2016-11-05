@@ -21,6 +21,7 @@
 - （Keras中文文档）http://keras-cn.readthedocs.io/en/latest/
 - （TensorFlow如何入门）https://www.zhihu.com/question/49909565
 - （TensorFlow中文文档）http://wiki.jikexueyuan.com/project/tensorflow-zh/
+- （TensorFlow中文git仓库）https://github.com/jikexueyuanwiki/tensorflow-zh
 
 ## 学习资源
 - （神经网络与深度学习）https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh_cn/content/index.html
